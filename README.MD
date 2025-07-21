@@ -35,7 +35,8 @@ A simple console-based packet sniffer written in **Python**.
 pip install -r requirements.txt
 
 ---
-## Пример запуска / Example usage
+
+- Пример запуска / Example usage
 
 ```bash
 python3 sniffer.py -i eth0 -c 10 -p all --save traffic.pcap
